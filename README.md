@@ -1,5 +1,7 @@
 # AngularCards
 
+![2023-11-18 11-30-04](https://github.com/codewithelmor/Angular-Cards/assets/44918452/1e0512f9-ef27-4c62-8538-b41255a3f3f4)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
 
 ## Development server
